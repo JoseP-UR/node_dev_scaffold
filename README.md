@@ -16,4 +16,4 @@ To change configurations and ports, edit the docker-compose.yml file.
 
 *Note: If you're going to change the ports for the apps set on the docker-compose.yml file, you'll have to change them on the nginx/nginx.conf file as well (i will try to automate this without that terrible envsubst solution on a later date).
 
-To run the project, got to the root folder and run the command `docker-compose up`, assuming you already have docker setup on your machine.
+To run the project, go to the root folder and run the command `docker-compose up`, assuming you already have docker setup on your machine.
