@@ -7,7 +7,7 @@ This project uses docker and docker-compose to run the following:
 - A Mongo database
 - A Redis database
 - A Mongo-Express container to check mongo
-- An Nginx proxy to connect everything togheter
+- An Nginx proxy to connect everything together
 
 
 There may be some dependencies to remove, but it should work fine.
